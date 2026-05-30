@@ -1,12 +1,21 @@
-![C++](https://img.shields.io/badge/C++-blue)
-![Java](https://img.shields.io/badge/Java-orange)
-![Python](https://img.shields.io/badge/Python-yellow)
-![SQL](https://img.shields.io/badge/SQL-green)
 # Hi, I'm Ahmed Ismail 👋
 
 🎓 Information Systems Student at Ain Shams University
 
-I'm passionate about Data Science, Machine Learning, Artificial Intelligence, and Software Development. I enjoy building practical applications and exploring data-driven solutions to real-world problems.
+💡 Passionate about Data Science, Machine Learning, Artificial Intelligence, and Software Development. I enjoy building practical applications and exploring data-driven solutions to real-world problems.
+
+---
+
+## 🛠️ Technologies & Tools
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
 
 ## 💻 Technical Skills
 
@@ -18,7 +27,9 @@ I'm passionate about Data Science, Machine Learning, Artificial Intelligence, an
 * Object-Oriented Programming (OOP)
 * Git & GitHub
 
-## 🚀 Projects
+---
+
+## 🚀 Featured Projects
 
 ### 📚 Course Registration System
 
@@ -30,7 +41,9 @@ A Java-based application that streamlines library operations, including book man
 
 ### ✅ To-Do List Application
 
-A C++ application for organizing and managing daily tasks with support for adding, updating, viewing, and deleting tasks using file handling techniques.
+A C++ application for organizing daily tasks with support for adding, updating, viewing, and deleting tasks using file handling techniques.
+
+---
 
 ## 🎯 Areas of Interest
 
@@ -41,11 +54,28 @@ A C++ application for organizing and managing daily tasks with support for addin
 * Data Analytics
 * Information Systems
 
+---
+
 ## 🌱 Currently Learning
 
 * Machine Learning
 * Data Analysis
 * Predictive Analytics
 * Business Intelligence
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed-ismail49\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-ismail49\&layout=compact)
+
+---
+
+## 🤝 Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/ahmed-ismail-is](http://www.linkedin.com/in/ahmed-ismail-is)
+* GitHub: https://github.com/ahmed-ismail49
 
 📫 Open to internships, collaborations, and learning opportunities.
