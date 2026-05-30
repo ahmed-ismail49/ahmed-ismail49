@@ -63,15 +63,7 @@ A C++ application for organizing daily tasks with support for adding, updating, 
 * Predictive Analytics
 * Business Intelligence
 
----
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed-ismail49\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-ismail49\&layout=compact)
-
----
 
 ## 🤝 Connect With Me
 
