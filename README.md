@@ -1,3 +1,7 @@
+![C++](https://img.shields.io/badge/C++-blue)
+![Java](https://img.shields.io/badge/Java-orange)
+![Python](https://img.shields.io/badge/Python-yellow)
+![SQL](https://img.shields.io/badge/SQL-green)
 # Hi, I'm Ahmed Ismail 👋
 
 🎓 Information Systems Student at Ain Shams University
