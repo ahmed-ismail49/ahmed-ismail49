@@ -45,6 +45,11 @@ A C++ application for organizing daily tasks with support for adding, updating, 
 
 ---
 
+### 🛍️ Kero Luxe E-Commerce Platform
+
+Contributed to the development of a full-stack e-commerce platform built with React, Node.js, Express, and MongoDB. The platform includes user authentication, product management, shopping cart functionality, order processing, and an admin dashboard with analytics and inventory management features.
+
+
 ## 🎯 Areas of Interest
 
 * Data Science
