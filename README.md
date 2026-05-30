@@ -1,42 +1,47 @@
-# Ahmed Ismail
+# Hi, I'm Ahmed Ismail 👋
 
-🎓 Computer and Information Sciences Student at Ain Shams University
+🎓 Information Systems Student at Ain Shams University
 
-## About Me
+I'm passionate about Data Science, Machine Learning, Artificial Intelligence, and Software Development. I enjoy building practical applications and exploring data-driven solutions to real-world problems.
 
-I am an aspiring Information Systems student with a strong interest in Software Development, Data Analysis, and Business Intelligence. I enjoy building practical applications and applying programming concepts to solve real-world problems.
-
-## Skills
+## 💻 Technical Skills
 
 * C++
 * Java
-* SQL
 * Python
-* Data Structures
+* SQL
+* Data Structures & Algorithms
 * Object-Oriented Programming (OOP)
 * Git & GitHub
 
-## Featured Projects
+## 🚀 Projects
 
-### Course Registration System
+### 📚 Course Registration System
 
-A C++ application developed as a practical implementation of Data Structures concepts, supporting course enrollment, prerequisite validation, and grade management.
+A C++ application developed as a practical implementation of Data Structures concepts. The system supports course enrollment, prerequisite validation, grade management, and file-based data storage.
 
-### Library Management System
+### 📖 Library Management System
 
-A Java application for managing library operations, including book management, borrowing, and returning processes.
+A Java-based application that streamlines library operations, including book management, borrowing, returning, and searching functionalities through a graphical user interface.
 
-### To-Do List Application
+### ✅ To-Do List Application
 
-A C++ application for organizing and managing daily tasks using file handling techniques.
+A C++ application for organizing and managing daily tasks with support for adding, updating, viewing, and deleting tasks using file handling techniques.
 
-## Currently Learning
+## 🎯 Areas of Interest
 
-* Data Analysis
-* Business Intelligence
+* Data Science
 * Machine Learning
+* Artificial Intelligence
+* Business Intelligence
+* Data Analytics
+* Information Systems
 
-## Contact
+## 🌱 Currently Learning
 
-LinkedIn: [www.linkedin.com/in/ahmed-ismail-is](http://www.linkedin.com/in/ahmed-ismail-is)
+* Machine Learning
+* Data Analysis
+* Predictive Analytics
+* Business Intelligence
 
+📫 Open to internships, collaborations, and learning opportunities.
