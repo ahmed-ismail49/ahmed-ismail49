@@ -1,16 +1,42 @@
-## Hi there 👋
+# Ahmed Ismail
 
-<!--
-**ahmed-ismail49/ahmed-ismail49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer and Information Sciences Student at Ain Shams University
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an aspiring Information Systems student with a strong interest in Software Development, Data Analysis, and Business Intelligence. I enjoy building practical applications and applying programming concepts to solve real-world problems.
+
+## Skills
+
+* C++
+* Java
+* SQL
+* Python
+* Data Structures
+* Object-Oriented Programming (OOP)
+* Git & GitHub
+
+## Featured Projects
+
+### Course Registration System
+
+A C++ application developed as a practical implementation of Data Structures concepts, supporting course enrollment, prerequisite validation, and grade management.
+
+### Library Management System
+
+A Java application for managing library operations, including book management, borrowing, and returning processes.
+
+### To-Do List Application
+
+A C++ application for organizing and managing daily tasks using file handling techniques.
+
+## Currently Learning
+
+* Data Analysis
+* Business Intelligence
+* Machine Learning
+
+## Contact
+
+LinkedIn: [www.linkedin.com/in/ahmed-ismail-is](http://www.linkedin.com/in/ahmed-ismail-is)
+
