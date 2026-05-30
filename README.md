@@ -75,7 +75,7 @@ A C++ application for organizing daily tasks with support for adding, updating, 
 
 ## 🤝 Connect With Me
 
-* LinkedIn: [www.linkedin.com/in/ahmed-ismail-is](http://www.linkedin.com/in/ahmed-ismail-is)
+* LinkedIn: [https://www.linkedin.com/in/ahmed-ismail49](https://www.linkedin.com/in/ahmed-ismail49)
 * GitHub: https://github.com/ahmed-ismail49
 
 📫 Open to internships, collaborations, and learning opportunities.
